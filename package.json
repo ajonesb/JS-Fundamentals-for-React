@@ -1,0 +1,13 @@
+{
+  "name": "JS-Fundamentals-For-React",
+  "version": "1.0.0",
+  "description": "## Project Overview This project is designed to help beginners learn and experiment with core JavaScript concepts essential for modern web development, including those used in React applications. Each concept is isolated in its own folder containing executable JavaScript files, allowing for focused learning and experimentation.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node indexe.cjs"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,33 @@
+## Project Structure Setup:
+
+This setup facilitates focused learning and allows you to run each concept's examples independently, in a very clean code structure with principles such as SOLID, KISS, DRY as well as a practical and iterative learning approach. 
+
+## Running JavaScript Files:
+
+Each file can be executed in your Node.js environment.
+
+You've been shown how to run files using the command line in VS Code, which is crucial for testing and experimenting with your code.
+
+# Study Plans:
+
+Each concept includes a study plan aimed at deepening your understanding through practical application and further exploration.
+
+These plans are designed to help you not just learn but also apply these concepts in real-world scenarios, especially in React development.
+
+## To solidify your understanding, consider:
+
+Expanding Examples: Enhance the provided examples by adding more complex scenarios or integrating several concepts into a single script.
+
+Interactive Learning: Use platforms like CodePen or JSFiddle to experiment with code snippets in a more visual and immediate environment, particularly for DOM-related tasks.
+
+## Build a project based on fundamentals:
+
+After learning and getting a good understanding of the fundamentals then put it all together with a project which could be a CRUD todo list application.
+Example, create a Geneaology app, here are the fundamentals with relation to using on a basic CRUD
+genealogy app: https://docs.google.com/document/d/1GrXvhqykRiThBHouuPTtgC81A3CSqqZxwntIXUzJNJA/edit
+
+## AFTER LEARNING JS FUNDAMENTALS TO GET AN INTRO WITH REACT:
+
+Building a Small Project: Start a simple React project using Create React App to apply what you've learned in a real project. This could be a to-do list (refactor the Js version maybe), a simple blog, or a personal portfolio.
+
+---
